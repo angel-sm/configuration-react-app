@@ -1,4 +1,4 @@
-#Configurar React app
+# Configurar React app
 * **librerias**
 	* babel
 	* webpack
